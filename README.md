@@ -78,4 +78,4 @@ Backend:
 For now, yes. 
 In the future, I plan for this repository to contain code snippets to be able to parse the git tree and receive these Productive Commits, and potentially this repo can be a place you can quickly grab the right pre-commit hook integration or snippet you need to get your project running.
 
-But I'm only one man, and I don't have the time right now to do that. If you'd like to contribute, PRs are welcome!
+But I'm only one man, and I don't have the time right now to do that. If you'd like to contribute, Forks are welcome!
